@@ -1,4 +1,8 @@
 {
+  "1": {
+    "name": "1",
+    "password": "1"
+  },
   "6285122248595": {
     "name": "qoupay",
     "password": "123"
@@ -142,5 +146,9 @@
   "6281370596039": {
     "name": "ramzzv4",
     "password": "sayangkamu12"
+  },
+  "08": {
+    "name": "coba",
+    "password": "123"
   }
 }
